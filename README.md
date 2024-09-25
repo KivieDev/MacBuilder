@@ -1,5 +1,5 @@
 # MacBuilder
-Currently under development, might be open src for now the beta will be in the releases.
+Currently under development, might be open src for now the beta will be in the releases(soon).
 If you have any questions/feedback or features that should be added send me a DM to my discord @kiviedev
 NOTE: I will only be using Dortania guide others may be done in the future.
 
