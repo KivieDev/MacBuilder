@@ -1,31 +1,33 @@
 # MacBuilder
-Currently under development, might be open src for now the beta will be in the releases(soon).
+MacBuilder is currently under development and may become open-source. For now, the beta version will be available in the releases section soon.
 
-If you have any questions/feedback or features that should be added send me a DM to my discord @kiviedev
+If you have any questions, feedback, or feature requests, feel free to send me a DM on Discord: @kiviedev.
 
-NOTE: I will only be using Dortania guide other guides may be available in the future.
+Note: We will be only using OpenCore guide. In the future many more may come.
 
 # Planned Features
-- ❌ **Built-in Installers**: Includes Kext and Driver installers for seamless integration.
-- ❌ **Customization Options**: Offers a variety of settings for tailored configurations.
-- ❌ **Automatic EFI Generation**: Automatically builds the EFI using the latest content for optimal performance.
-- ❌ **OCValidator Integration**: Built-in OpenCore Validator to ensure your setup is functioning correctly.
-- ✅ **User-Friendly Interface**: Intuitive UI designed for easy navigation and usability.
-- ❌ **Boot-Picker**: Customize your bootpicker as you like.
-- ✅ **Quick And Easy**: Streamlined setup for both beginners and pros, minimizing effort for EFI creation.
-- ❌ **Learn Mode**: Step-by-step guidance to help users understand the EFI build process.
-- ✅ **Save Time And Money**: Automated features reduce trial and error and eliminate the need for paid Hackintosh services, saving both time and cost.
-- ❌ **No USB Required**: Configure and install EFI directly to your hard drive, no USB needed.
-- ❌ **Real-Time Updates**: Automatically check for updates to Kexts, Drivers, and OpenCore, keeping your setup always up-to-date.
-- ✅ **Hardware Compatibility Checker**: Automatically scans your hardware to suggest optimal settings.
-- ❌ **Backup and Restore**: Create backups of your EFI folder and settings, with the option to restore them if something goes wrong.
-- ❌ **Multilingual Support**: Offer support for multiple languages, making it accessible to a wider user base.
-- ❌ **Dark Mode**: Include a dark mode for easier visibility and user preference.
-
-✅ = Completed.
-
-❌ = In progress.
+- ❌ Built-in Installers: Kext and Driver installers for seamless integration.
+- ❌ Customization Options: A variety of settings for tailored configurations.
+- ❌ Automatic EFI Generation: Automatically build the EFI using the latest components for optimal performance.
+- ❌ OCValidator Integration: Built-in OpenCore Validator to ensure your setup is functioning correctly.
+- ✅ User-Friendly Interface: Intuitive UI designed for easy navigation and usability.
+- ❌ Boot-Picker: Customize your boot picker to suit your preferences.
+- ✅ Quick and Easy: Streamlined setup process for both beginners and pros, minimizing effort in EFI creation.
+- ❌ Learn Mode: Step-by-step guidance to help users understand the EFI build process.
+- ✅ Save Time and Money: Automated features reduce trial and error, eliminating the need for paid Hackintosh services.
+- ❌ No USB Required: Configure and install EFI directly to your hard drive—no USB needed.
+- ❌ Real-Time Updates: Automatically check for updates to Kexts, Drivers, and OpenCore to keep your setup up to date.
+- ✅ Hardware Compatibility Checker: Automatically scans your hardware to suggest the optimal settings.
+- ❌ Backup and Restore: Create backups of your EFI folder and settings, with easy restoration in case of errors.
+- ❌ Multilingual Support: Support for multiple languages, expanding accessibility to more users.
+- ❌ Dark Mode: Includes dark mode for easier visibility and user preferences.
+  
+✅ = Completed
+  
+❌ = In progress
 
 # Current Status
-We are working hard to get this in Beta asap if you would like to see real time updates check out my Discord server 
-https://discord.gg/bcd2dPWRPz
+We’re working hard to get this into beta as soon as possible. For real-time updates, check out the Discord server.
+
+# Support MacBuilder
+If you'd like to support the project, consider donating here: [Buy me a coffee.](https://buymeacoffee.com/kiviedev)
