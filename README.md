@@ -21,8 +21,11 @@ NOTE: I will only be using Dortania guide other guides may be available in the f
 - ❌ **Backup and Restore**: Create backups of your EFI folder and settings, with the option to restore them if something goes wrong.
 - ❌ **Multilingual Support**: Offer support for multiple languages, making it accessible to a wider user base.
 - ❌ **Dark Mode**: Include a dark mode for easier visibility and user preference.
+
 ✅ = Completed.
+
 ❌ = In progress.
+
 # Current Status
 We are working hard to get this in Beta asap if you would like to see real time updates check out my Discord server 
 https://discord.gg/bcd2dPWRPz
