@@ -27,7 +27,7 @@ Note: We will be only using OpenCore guide. In the future many more may come.
 ❌ = In progress
 
 # Current Status
-We’re working hard to get this into beta as soon as possible. For real-time updates, check out the Discord server.
+We’re working hard to get this into beta as soon as possible. For real-time updates, check out the [Discord Server](https://discord.gg/7FhHhjm9uu)
 
 # Support MacBuilder
 If you'd like to support the project, consider donating here: [Buy me a coffee.](https://buymeacoffee.com/kiviedev)
