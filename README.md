@@ -1,5 +1,5 @@
 # MacBuilder
-MacBuilder is currently under development and may become open-source. For now, the beta version will be available in the releases section soon.
+MacBuilder is currently under development. For now, the beta version will be available in the releases section soon.
 
 If you have any questions, feedback, or feature requests, feel free to send me a DM on Discord: @kiviedev.
 
@@ -28,6 +28,9 @@ Note: We will be only using OpenCore guide. In the future many more may come.
 
 # Current Status
 We’re working hard to get this into beta as soon as possible. For real-time updates, check out the [Discord Server](https://discord.gg/7FhHhjm9uu)
+
+# Contributing
+[Souce Code here](https://github.com/KivieDev/MacBuilder-Source)
 
 # Support MacBuilder
 If you'd like to support the project, consider donating here: [Buy me a coffee.](https://buymeacoffee.com/kiviedev)
